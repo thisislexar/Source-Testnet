@@ -10,7 +10,7 @@ NODE TİPİ | CPU     | RAM      | SSD     |
 | Testnet | 4          | 8         | 160  |
 
 
-## Source Protocol için sosyal medya hesapları:
+## Source Protocol için önemli linkler:
 - [Website](https://www.sourceprotocol.io/)
 - [Explorer](https://explorer.testnet.sourceprotocol.io/source)
 - [Twitter](https://twitter.com/SourceProtocol_/)
