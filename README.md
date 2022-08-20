@@ -1,6 +1,7 @@
 <h1 align="center">Source Protocol Testnet Kurulumu
 
-## Merhabalar, Source Protocol için testnet kurulumunu gerçekleştireceğiz. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
+## Merhabalar, Source Protocol için testnet kurulumunu gerçekleştireceğiz. Sağ üstten yıldızlayıp forklayabilirsiniz. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
+
 
 ![image](https://user-images.githubusercontent.com/101462877/185739528-e73647e2-9ccb-4c80-a068-cec3e04fcac7.png)
 
